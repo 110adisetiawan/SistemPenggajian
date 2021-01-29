@@ -1,0 +1,160 @@
+[27-Jan-2021 22:03:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[27-Jan-2021 22:03:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[27-Jan-2021 22:07:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[27-Jan-2021 22:07:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[27-Jan-2021 22:12:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[27-Jan-2021 22:12:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[27-Jan-2021 22:14:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[27-Jan-2021 22:14:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[27-Jan-2021 22:15:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[27-Jan-2021 22:15:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[27-Jan-2021 22:15:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:28:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:28:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:31:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:31:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:32:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:32:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:33:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:33:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:34:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:34:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adit3911/public_html/project/controller/controllerLogin.php:58) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 51
+[28-Jan-2021 13:34:12 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:34:12 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:34:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:35:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:35:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adit3911/public_html/project/controller/controllerLogin.php:58) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 51
+[28-Jan-2021 13:35:11 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:35:11 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:35:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:38:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:38:24 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:40:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:40:06 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:40:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:40:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:40:47 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:40:47 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:40:47 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:40:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:41:07 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:41:07 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:07 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:41:11 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:41:11 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:11 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:41:16 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:41:16 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:16 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:41:28 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:41:28 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:28 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:41:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:42:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:42:04 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:42:04 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:42:04 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:42:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 52
+[28-Jan-2021 13:42:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:42:48 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:42:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:42:52 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:42:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:42:55 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:43:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:43:06 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:43:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:43:27 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:43:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:43:36 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:43:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:43:44 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:43:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:43:52 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:45:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:45:21 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:46:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:46:31 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:46:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:46:33 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:49:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/adit3911/public_html/project/controller/controllerLogin.php on line 16
+[28-Jan-2021 13:49:21 Asia/Jakarta] PHP Notice:  Undefined variable: temp in /home/adit3911/public_html/project/controller/controllerLogin.php on line 20
+[28-Jan-2021 13:49:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/adit3911/public_html/project/proses/prosesLogin.php on line 17
+[28-Jan-2021 13:52:10 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 13:57:23 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 13:58:45 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 13:59:34 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 13:59:38 Asia/Jakarta] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 30
+[28-Jan-2021 13:59:38 Asia/Jakarta] PHP Warning:  Use of undefined constant location - assumed 'location' (this will throw an Error in a future version of PHP) in /home/adit3911/public_html/project/proses/prosesLogin.php on line 30
+[28-Jan-2021 13:59:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/adit3911/public_html/project/proses/prosesLogin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/adit3911/public_html/project/proses/prosesLogin.php on line 30
+[28-Jan-2021 14:01:04 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:01:23 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:07:23 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:09:09 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:28:54 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:30:18 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:30:30 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:31:42 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:31:42 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modelPegawai::update(), 5 passed in /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php on line 70 and exactly 6 expected in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php:53
+Stack trace:
+#0 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(70): modelPegawai->update('16', 'Rayhan', 'Jalan Demak', 'Islam', 'CEO')
+#1 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(78): prosesPegawai->proses()
+#2 {main}
+  thrown in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php on line 53
+[28-Jan-2021 14:31:47 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modelPegawai::update(), 5 passed in /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php on line 70 and exactly 6 expected in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php:53
+Stack trace:
+#0 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(70): modelPegawai->update('16', 'Rayhan', 'Jalan Demak', 'Islam', 'CEO')
+#1 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(78): prosesPegawai->proses()
+#2 {main}
+  thrown in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php on line 53
+[28-Jan-2021 14:32:00 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modelPegawai::update(), 5 passed in /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php on line 70 and exactly 6 expected in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php:53
+Stack trace:
+#0 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(70): modelPegawai->update('16', 'Rayhan Fathoni', 'Jalan Demak', 'Islam', 'CEO')
+#1 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(78): prosesPegawai->proses()
+#2 {main}
+  thrown in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php on line 53
+[28-Jan-2021 14:32:03 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modelPegawai::update(), 5 passed in /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php on line 70 and exactly 6 expected in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php:53
+Stack trace:
+#0 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(70): modelPegawai->update('16', 'Rayhan Fathoni', 'Jalan Demak', 'Islam', 'CEO')
+#1 /home/adit3911/public_html/project/proses/prosesRegisterPegawai.php(78): prosesPegawai->proses()
+#2 {main}
+  thrown in /home/adit3911/public_html/project/controller/controllerCrudPegawai.php on line 53
+[28-Jan-2021 14:34:10 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 14:39:20 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 15:02:06 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 17:29:27 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
+[28-Jan-2021 18:39:20 Asia/Jakarta] PHP Notice:  Undefined variable: id in /home/adit3911/public_html/project/proses/prosesLogin.php on line 20
