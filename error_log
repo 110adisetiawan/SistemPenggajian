@@ -1,0 +1,88 @@
+[27-Jan-2021 22:02:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[27-Jan-2021 22:02:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[27-Jan-2021 22:02:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[27-Jan-2021 22:02:54 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[27-Jan-2021 22:02:54 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:14:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:14:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:14:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:14:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:14:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:33:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:33:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:33:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:33:46 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:33:46 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:40:02 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:40:02 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:40:02 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:40:02 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:40:02 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:40:02 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:41:19 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:41:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:41:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:41:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:41:19 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:41:19 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:48:31 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:48:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:48:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:48:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:48:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:48:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:48:41 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:48:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:48:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:48:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:48:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:48:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:52:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adit3911/public_html/project/index.php on line 11
+[28-Jan-2021 13:52:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 12
+[28-Jan-2021 13:52:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/adit3911/public_html/project/index.php on line 13
+[28-Jan-2021 13:52:10 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 14
+[28-Jan-2021 13:52:10 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/adit3911/public_html/project/index.php on line 15
+[28-Jan-2021 13:56:23 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:56:39 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:56:39 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:59:20 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 13:59:30 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:28:47 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:28:53 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:29:08 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:29:12 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:30:13 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:30:51 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:32:06 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:32:56 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:34:06 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:39:20 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 14:43:19 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 7
+[28-Jan-2021 15:01:56 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:01:56 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 7
+[28-Jan-2021 15:02:06 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:15 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:18 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:22 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:30 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:32 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:34 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:36 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:39 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:45 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:02:47 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:03:03 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:03:06 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:03:09 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:03:49 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:03:51 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:03:54 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 15:04:31 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 17:28:35 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 17:28:35 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 7
+[28-Jan-2021 17:29:22 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 17:29:22 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 7
+[28-Jan-2021 17:29:27 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 18:38:57 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
+[28-Jan-2021 18:38:57 Asia/Jakarta] PHP Notice:  Undefined index: USERNAME in /home/adit3911/public_html/project/index.php on line 7
+[28-Jan-2021 18:39:20 Asia/Jakarta] PHP Notice:  Undefined index: JABATAN in /home/adit3911/public_html/project/index.php on line 5
