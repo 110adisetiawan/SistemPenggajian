@@ -35,14 +35,18 @@
 
   <div class="register-box-body">
     <p class="login-box-msg">Tambah Karyawan Baru</p>
-
+        <?php
+        # When installed via composer
+        require_once '../vendor/autoload.php';
+        $faker = Faker\Factory::create();
+        ?>
     <form action="../proses/prosesRegisterPegawai.php?aksi=tambah" method="post" enctype="multipart/form-data">
       <div class="form-group has-feedback">
-        <input type="text" class="form-control" placeholder="Nama Lengkap" name="nama">
+        <input type="text" class="form-control" placeholder="Nama Lengkap" name="nama" value="<?= $faker->name;?>">
         <span class="glyphicon glyphicon-user form-control-feedback"></span>
       </div>
       <div class="form-group has-feedback">
-        <input type="text" class="form-control" placeholder="Alamat" name="alamat">
+        <input type="text" class="form-control" placeholder="Alamat" name="alamat" value="<?= $faker->address;?>">
         <span class="glyphicon glyphicon-home form-control-feedback"></span>
       </div>
       <div class="form-group has-feedback">
